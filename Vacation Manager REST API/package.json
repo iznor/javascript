@@ -1,21 +1,21 @@
 {
-  "name": "assignment4-ex1-node-http-iznor",
+  "name": "###################",
   "version": "1.0.0",
-  "description": "node-ex1",
+  "description": "###################",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://iznor: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@github.com/DCS-Shenkar-2022/assignment4-ex1-node-http-iznor.git"
+    "url": "###################.git"
   },
   "author": "Ido Dor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DCS-Shenkar-2022/assignment4-ex1-node-http-iznor/issues"
+    "url": "###################/issues"
   },
-  "homepage": "https://github.com/DCS-Shenkar-2022/assignment4-ex1-node-http-iznor#readme",
+  "homepage": "###################",
   "dependencies": {
     "querystring": "^0.2.1",
     "winston": "^3.3.3"
